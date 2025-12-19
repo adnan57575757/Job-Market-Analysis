@@ -26,14 +26,14 @@ This project predicts salaries for data science professionals based on their qua
    - Shows the most frequently occurring job roles in the dataset, indicating high-demand positions.
 
 2. **Top Hiring Companies**:
-   ![Salary vs Experience](./img/SalaryExperience.png)
+   ![Hiring Company](https://github.com/adnan57575757/Job-Market-Analysis/blob/f02448a955fbdedcc0740cdfe4eb3506613bd358/image/top_hiring_company.png)
    - Highlights companies with the highest number of job postings.
 
 3. **Contract Type Distribution**:
-   ![Skills](./img/Skills.png)
+   ![Contract Type](https://github.com/adnan57575757/Job-Market-Analysis/blob/f02448a955fbdedcc0740cdfe4eb3506613bd358/image/contract_period.png)
    - Illustrates how job postings are distributed across different contract types.
 4. **Salary Distribution**:
-
+   ![](https://github.com/adnan57575757/Job-Market-Analysis/blob/f02448a955fbdedcc0740cdfe4eb3506613bd358/image/salary.png)
    -Displays the distribution of salaries after excluding extreme outliers to better understand typical salary ranges.
 
 ## Libraries Used
