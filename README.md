@@ -22,7 +22,7 @@ This project predicts salaries for data science professionals based on their qua
 ### Key Insights and Visualizations:
 
 1. **Top Job Profiles**:
-   ![Job Profile](./img/JobTitles.png)
+   ![Job Profile](https://github.com/adnan57575757/Job-Market-Analysis/blob/3da088ff5a6ba003bc00664b8168afaf2305eec0/image/topjob_profile.png)
    - Shows the most frequently occurring job roles in the dataset, indicating high-demand positions.
 
 2. **Top Hiring Companies**:
